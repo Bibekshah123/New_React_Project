@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import './Testimonials.css';
-import {testimonialsData} from '../../data/testimonialsData';
+import {testimonialsData} from '../../pages/testimonialsData';
 import leftArrow from '../../assets/leftArrow.png';
 import rightArrow from '../../assets/rightArrow.png';
 const Testimonials = () => {
